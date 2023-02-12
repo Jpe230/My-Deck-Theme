@@ -1,0 +1,38 @@
+{
+	"name": "Jpe230 Theme",
+	"author": "Jpe230",
+	"target": "Other",
+	"version": "v1.0",
+	"description": "My custom theme.",
+	"manifest_version": 1,
+	"inject": {
+        "theme.css": [
+            "SP",
+            "MainMenu",
+            "QuickAccess"
+        ]
+    },
+	"dependencies": {
+        "Art Here": {
+            "Theme Colour": "Purple",
+            "Bottom Text": "0"
+        },
+		"Switch Like Home":{},
+		"No Home Filter": {
+			"Opacity Control": "1"
+		},
+		"Centered Game Text": {},
+		"Round": {
+			"Intensity": {},
+			"Outlines": {}
+		},
+		"DellyFooter": {
+			"Effect": "Blur",
+			"Size": "Default"
+		},
+		"Top Bar Transparency": {
+			"Transparency": ".0",
+			"Always Add Transparency": "Yes"
+		}
+	}
+}

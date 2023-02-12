@@ -1,0 +1,30 @@
+.gamepadhomerecentgames_RecentGamesInnerContainer_282X0 .basicgamecarousel_BasicGameCarousel_3MdH5 {
+height:315px!important;
+}
+
+.basicgamecarousel_CarouselGameLabelWrapper_ZkD6W {
+top:-12vh!important;
+}
+
+.marquee_Content_2ADpT {
+font-size:25px;
+padding:5px;
+text-shadow:0 0 5px rgba(0,0,0,0.8);
+}
+
+.basicgamecarousel_SubMessage_1BtXg {
+color:#fff;
+text-shadow:0 0 5px rgba(0,0,0,0.8);
+}
+
+.basicgamecarousel_BasicGameCarousel_3MdH5 > .ReactVirtualized__Grid__innerScrollContainer {
+margin-top:10vh!important;
+}
+
+.ReactVirtualized__Grid__innerScrollContainer {
+margin-top:0;
+}
+
+.basiccontextmenu_contextMenuContents_TBSbv.Panel.Focusable.gpfocuswithin,.gamepadpagedsettings_PagedSettingsDialog_PageListColumn_2EZ3o.Panel.Focusable.gpfocuswithin {
+padding-bottom:44px;
+}
